@@ -8,7 +8,7 @@ raw data link: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 3. COVID-19 Infection Rate & US Election Prediction (Nov 2020 - Dec 2020) - Private
 
-4. Snapchat Advertisements (May 2020 - June 2020)\
+4. Snapchat Advertisements (May 2020 - June 2020) - file in repo\
 raw data link: https://www.snap.com/en-US/political-ads/
 
 5. Anti-Plague Strategy Game (Jan 2020 - Present)\
