@@ -14,5 +14,5 @@ raw data link: https://www.snap.com/en-US/political-ads/
 5. Anti-Plague Strategy Game (Jan 2020 - Present)\
 project address: http://pong-center-dev.ucsd.edu/AntiPlague/index.html
 
-6. Rating Prediction of Clothing Fit Dataset
+6. Rating Prediction of Clothing Fit Dataset\
 Report in repo: rating prediction.pdf
