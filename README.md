@@ -9,3 +9,5 @@
 4. Snapchat Advertisements (May 2020 - June 2020) 
 
 5. Anti-Plague Strategy Game (Jan 2020 - Jun 2020) 
+
+6. HDSI Faculty Tool (June 2021 - March 2022)
