@@ -1,1 +1,1 @@
-project address: https://marthay01.github.io/hdsi_faculty_tool/
+project address: https://hdsi-faulty-tool.herokuapp.com/
